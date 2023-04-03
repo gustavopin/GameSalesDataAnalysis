@@ -3,7 +3,7 @@ This project is a analysis of game sales from 1980 to 2020, containing sales fro
 
 To-do list:
 
-    () Visualize the raw data.
+    (X) Visualize the raw data.
     
     () Clean the dataset to answer the following questions:
     
