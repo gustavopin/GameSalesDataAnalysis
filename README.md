@@ -1,11 +1,11 @@
-##Data Analysis
+Data Analysis
 This project is a analysis of game sales from 1980 to 2020, containing sales from North America, Europe, Japan, Global sales and other non-especified. It also contains the Publisher, platform and genre.
 
-##To-do list:
+To-do list:
 
-    **() Visualize the raw data.**
+    () Visualize the raw data.
     
-    **() Clean the dataset to answer the following questions:**
+    () Clean the dataset to answer the following questions:
     
         () What was the top 50 most sold games?
 
