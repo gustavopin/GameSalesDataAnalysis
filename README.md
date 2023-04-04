@@ -6,12 +6,14 @@ To-do list:
     (X) Visualize the raw data.
     
     () Clean the dataset to answer the following questions:
+        
+        (X) What region most bought games in this time period?
     
-        () What was the top 50 most sold games?
+        (X) What was the top 50 most sold games?
 
         () Comparing the Publishers, who published more games? 
 
-        () Who sold more?
+        () What publisher sold more?
 
         () What genre was the most published? What sold more?
 
