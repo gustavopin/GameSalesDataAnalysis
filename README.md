@@ -11,10 +11,10 @@ To-do list:
     
         (X) What was the top 50 most sold games?
 
-        () Comparing the Publishers, who published more games? 
+        (X) Comparing the Publishers, who published more games? 
 
         () What publisher sold more?
 
-        () What genre was the most published? What sold more?
+        (X) What genre was the most published? What sold more?
 
         () What genre this X Publisher published more frequently?
