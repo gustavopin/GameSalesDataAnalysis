@@ -13,7 +13,7 @@ To-do list:
 
         (X) Comparing the Publishers, who published more games? 
 
-        () What publisher sold more?
+        (X) Top 20 Publishers that sold more copies
 
         (X) What genre was the most published? What sold more?
 
