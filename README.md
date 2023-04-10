@@ -5,7 +5,7 @@ To-do list:
 
     (X) Visualize the raw data.
     
-    () Clean the dataset to answer the following questions:
+    (X) Clean the dataset to answer the following questions:
         
         (X) What region most bought games in this time period?
     
@@ -16,5 +16,3 @@ To-do list:
         (X) Top 20 Publishers that sold more copies
 
         (X) What genre was the most published? What sold more?
-
-        () What genre this X Publisher published more frequently?
